@@ -1,0 +1,4 @@
+interface:
+  display_name: "LiveFlow Deman Gen Optimizer"
+  short_description: "Generate and optimize ABM and ad variants"
+  default_prompt: "Use $liveflow-deman-gen-optimizer to generate persona- and industry-specific ABM, LinkedIn ad, and Google Search ad variants with weekly optimization logs."
